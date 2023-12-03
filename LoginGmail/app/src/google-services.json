@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891532411102",
+    "project_id": "login-42158",
+    "storage_bucket": "login-42158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891532411102:android:fb67bccad74c6a07bf424f",
+        "android_client_info": {
+          "package_name": "com.diego.gmailLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891532411102-v9m18hb4tnk5eq0g8lmrkoneocgeloof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBct2KzBrLyDK3P39h4Z9r2j39EhtUpdpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891532411102-v9m18hb4tnk5eq0g8lmrkoneocgeloof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
